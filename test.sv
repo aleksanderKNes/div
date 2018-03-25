@@ -31,7 +31,7 @@ locally on feature
 3 Remotely 
 4 local, want to move to branch
 
-
+7, remote commit
 
 
 I want this here, and above the things from the branch should be left unharmed
