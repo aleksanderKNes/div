@@ -30,7 +30,7 @@ locally on feature
 
 3 Remotely 
 4 local, want to move to branch
-
+5 local, move after pulled changes from remote
 
 
 
